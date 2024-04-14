@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.10",
+	"author": {
+		"id": "534810356455964703",
+		"name": ".yuhki"
+	},
+	"service": "fakecrime",
+	"description": {
+		"en": "fakecrime crafts personalized biographies, offering unique pages reflecting individual personality and creativity."
+	},
+	"url": "fakecrime.bio",
+	"version": "1.0.0",
+	"logo": "https://github.com/yuhkix/fakecrime-assets/blob/9e2860f6dd192fd469670cd23ab0e871e02ef1ad/fakecrime2.png?raw=true",
+	"thumbnail": "https://github.com/yuhkix/fakecrime-assets/blob/5e36c7551ffd4ec0f6c39ecb916a759706fbfe7f/thumbnail.png?raw=true",
+	"color": "#f97316",
+	"category": "socials",
+	"tags": [
+		"biography",
+		"portfolio",
+		"introduction"
+	]
+}
